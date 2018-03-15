@@ -1,4 +1,4 @@
-# pokeGAN
+# GAN
 
 ## Overview
 This is the code inspired from [this](https://youtu.be/yz6dNf7X7SA) video on Youtube by Siraj Raval. We'll use a WGAN to create new images from ArrowHeads dataset heatmaps. 
@@ -20,4 +20,4 @@ python GAN.py
 
 ## Credits
 
-The credits for this code go to [moxiegushi](https://github.com/moxiegushi/pokeGAN). I've merely created a wrapper to get people started. 
+The credits for this code go to [moxiegushi](https://github.com/moxiegushi/pokeGAN) and  Siraj Raval, I am just experimenting with their previous work.
